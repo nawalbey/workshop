@@ -1,0 +1,19 @@
+.carre { float: left;
+  width: 200px;
+  height: 200px;
+  background-image: linear-gradient(to right, coral, white);
+  border-radius: 25%; 
+  border: 2px solid black;
+  margin-left: 5px;
+}
+.carre1 {  float: left;
+  width: 200px;
+  height: 200px;
+  background-image: linear-gradient(to right, black, purple);
+  border-radius: 25%; 
+  border: 2px solid black;
+  margin-left: 5px;
+}
+.ligne {
+    clear: both;
+}

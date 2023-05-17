@@ -1,0 +1,36 @@
+.carre {
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+  margin: 3px 0;
+}
+
+.bleu {
+  background-image: linear-gradient(to bottom right, purple, black);
+  border-radius: 25px 5px;
+}
+
+.vert {
+  background-image: linear-gradient(to bottom right, pink, purple);
+  border-radius: 6px 7px 15px 25px;
+}
+.rond {
+  border-radius: 50%;
+}
+section {
+  display: flex;
+  justify-content: center;
+}
+.beige {
+  background-image: linear-gradient(to bottom right, orange, red);
+  border-radius: 5px 25px;
+}
+.blanc {
+  border: none;
+}
+header {
+  text-align: center;
+  font-family: "Brush Script MT" ,"Lucida Handwriting",fantasy;
+  background-image: linear-gradient( to bottom right, purple,red);
+}
+
